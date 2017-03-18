@@ -1,15 +1,15 @@
 # Site settings
-name: Less Or More
-email: 309712560@qq.com
-author: Lin Tao
+name: compy
+email: 2071959367@qq.com
+author: compy
 url: http://www.lintao.online
 resume_site: http://www.lintao.online/cv.html
 github: https://github.com/lintaoonline/
 baseurl: ""
 description: Actually, I'm not a Kobe fan!
-meta_description: 林韬;个人博客
+meta_description: cslcompy;个人博客
 motto: Never underestimate the heart of a champion.
-banner: when i was young. they call me "小科比" ;
+banner: when i was young. they call me "compy" ;
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
